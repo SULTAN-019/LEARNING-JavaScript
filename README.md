@@ -1,0 +1,2 @@
+# LEARNING-JavaScript
+Simple projects
